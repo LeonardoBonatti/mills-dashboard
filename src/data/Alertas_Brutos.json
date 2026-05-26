@@ -1,0 +1,31 @@
+[
+  {
+    "⚠️  Não alterar a estrutura desta aba. Ela é usada como fonte de dados pelas demais abas.": "Número de série do ativo",
+    "Col_1": "Marca",
+    "Col_2": "Modelo",
+    "Col_3": "Nome",
+    "Col_4": "Código de Falha",
+    "Col_5": "Código de Falha Cid",
+    "Col_6": "Código de Falha Fmi",
+    "Col_7": "Código de Falha Eid",
+    "Col_8": "Código de Falha Spn",
+    "Col_9": "Gravidade",
+    "Col_10": "Data da Falha",
+    "Col_11": "Valor das horas",
+    "Col_12": "Unidade de horímetro",
+    "Col_13": "Carimbo de hora",
+    "Col_14": "Valor do hodômetro",
+    "Col_15": "Unidade de horímetro",
+    "Col_16": "Carimbo de data/hora do hodômetro",
+    "Col_17": "Valor gerado de potência vitalícia",
+    "Col_18": "Unidade de horímetro",
+    "Col_19": "Carimbo de data/hora gerado pela potência vitalícia",
+    "Col_20": "Valor consumido vitalício do combustível",
+    "Col_21": "Unidade de horímetro",
+    "Col_22": "Registro de data e hora de consumo de combustível vitalício",
+    "Col_23": "Fonte",
+    "Col_24": "Tipo",
+    "Col_25": "Ocorrências",
+    "Col_26": "Localização da Falha"
+  }
+]
